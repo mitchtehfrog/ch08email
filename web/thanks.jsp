@@ -28,5 +28,11 @@
         <input type="submit" value="Return">
     </form>
         
+    <p>${requestScope.currentDate}</p>
+    <p>${sessionScope.users[0].firstName}&nbsp;${sessionScope.users[0].lastName}
+        &nbsp;${sessionScope.users[0].email}</p>
+    <p>${sessionScope.users[1].firstName}&nbsp;${sessionScope.users[1].lastName}
+        &nbsp;${sessionScope.users[1].email}</p>
+    <p>${initParam.custServEmail}</p>
 </body>
 </html>

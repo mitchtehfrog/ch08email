@@ -1,2 +1,2 @@
-jsmith@gmail.com|John|Smith
-joel@murach.com|Joel|Murach
+jhollingsworth@elon.edu|Joel|Hollingsworth
+dpowell2@elon.edu|Dave|Powell
